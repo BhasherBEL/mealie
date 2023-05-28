@@ -39,9 +39,12 @@ python-multipart = "^0.0.6"
 python-slugify = "^8.0.0"
 recipe-scrapers = "^14.26.0"
 requests = "^2.25.1"
+<<<<<<< HEAD
 tzdata = "^2022.7"
 uvicorn = {extras = ["standard"], version = "^0.21.0"}
 beautifulsoup4 = "^4.11.2"
+pre-commit = "^2.20.0"
+authlib = "^1.2.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
@@ -62,7 +65,10 @@ types-python-slugify = "^6.0.0"
 types-requests = "^2.27.12"
 types-urllib3 = "^1.26.11"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> TomCranitch/oidc
 [build-system]
 build-backend = "poetry.core.masonry.api"
 requires = ["poetry-core>=1.0.0"]
